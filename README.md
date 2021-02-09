@@ -1,2 +1,2 @@
 # Online-Tutor
-My Teching platform on github
+My Teaching platform on github
